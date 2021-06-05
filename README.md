@@ -28,6 +28,8 @@ Here are some ideas to get you started:
  ## ⚡ Skills Unlocked :
   ![Python](https://img.shields.io/static/v1?label=&message=Python&style=for-the-badge&color=3776AB&logo=python&logoColor=FFFFFF)&nbsp;
   ![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&style=for-the-badge&color=CC342D&logo=ruby&logoColor=FFFFFF)&nbsp;
+  ![Tensorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&style=for-the-badge&color=FF6F00&logo=tensorflow&logoColor=FFFFFF)&nbsp;
+  ![Keras](https://img.shields.io/static/v1?label=&message=Keras&style=for-the-badge&color=D00000&logo=keras&logoColor=FFFFFF)&nbsp;
   ![Git](https://img.shields.io/static/v1?label=&message=Git&style=for-the-badge&color=F05032&logo=git&logoColor=FFFFFF)&nbsp;
   ![Github](https://img.shields.io/static/v1?label=&message=Github&style=for-the-badge&color=181710&logo=github&logoColor=FFFFFF)&nbsp;
   ![HTML](https://img.shields.io/static/v1?label=&message=HTML&style=for-the-badge&color=ff751a&logo=HTML5&logoColor=FFFFFF)&nbsp;
