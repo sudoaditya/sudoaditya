@@ -37,21 +37,23 @@ Here are some ideas to get you started:
   ![Mysql](https://img.shields.io/static/v1?label=&message=Mysql&style=for-the-badge&color=4479A1&logo=mysql&logoColor=FFFFFF)&nbsp;
   ![AngularJS](https://img.shields.io/static/v1?label=&message=AngularJS&style=for-the-badge&color=E23237&logo=angularjs&logoColor=FFFFFF)&nbsp;
   <hr>
-</br>
+<br>
 
 
 
 <br>
 <br>
 <div align="center">
-<i>Random dev joke</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-</div>
+  <h3><i>Random dev joke.</i></h3>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a></div>
+
 
 <br>
 <br>
-Here are some 😺🐾 Cats:
-
+<br>
+<br>
+  
+<img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg">
 <div>
     <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50" height="50"/>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" height="50"/>
